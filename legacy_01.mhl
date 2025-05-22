@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hashlist version="1.1">
+
+  <creatorInfo>
+    <name>Romp</name>
+    <username>romp</username>
+    <hostname>romps-mbp.lan</hostname>
+    <tool>mhl ver. 0.2.0</tool>
+    <startdate>2021-11-15T02:25:15Z</startdate>
+    <finishdate>2021-11-15T02:25:15Z</finishdate>
+  </creatorInfo>
+
+  <hash>
+    <file>001/12345-001.wav</file>
+    <size>2147328688</size>
+    <lastmodificationdate>2021-11-15T02:24:59Z</lastmodificationdate>
+    <xxhash64be>db8de5cbce12d945</xxhash64be>
+    <hashdate>2021-11-15T02:25:15Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>001/12345-002.wav</file>
+    <size>795454960</size>
+    <lastmodificationdate>2021-11-15T02:25:12Z</lastmodificationdate>
+    <xxhash64be>f0bc6452e67ed534</xxhash64be>
+    <hashdate>2021-11-15T02:25:15Z</hashdate>
+  </hash>
+
+</hashlist>

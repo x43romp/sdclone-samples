@@ -1,0 +1,12 @@
+Creating new generation for folder at path: /Users/romp/sdclone/samples/ ...
+ignoring filepath /Users/romp/sdclone/samples/.DS_Store
+ignoring filepath /Users/romp/sdclone/samples/.git
+ignoring filepath /Users/romp/sdclone/samples/.gitignore
+  created original hash for     10MB  xxh128: eb21d7ea72287cc59fcc2eee6aab1881
+  created original hash for     50MB-3f82-cab7-8049-c267  xxh128: c267ea3a39f153b27e1295e72f576eba
+  created original hash for     data_md5.mhl  xxh128: 035385a6b96295bf901079777e4d041e
+  created original hash for     data_xh.mhl  xxh128: fda2313c1dab6a2413ff7b5e539a875e
+  created original hash for     legacy_01.mhl  xxh128: df00b731c5ab11cc220a3f1ebab72c9b
+  created original hash for     legacy_02.mhl  xxh128: e41ec38b8b9a4cb0069f6921ded8a043
+  calculated root hash  xxh128: 9dcdd08dba0f4fbdb8cf49428365173d (content), 1982996ee7d0f26a1b8f6f8999d586f3 (structure)
+Created new generation ascmhl/0001_samples_2025-05-22_204650Z.mhl

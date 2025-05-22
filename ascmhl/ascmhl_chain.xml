@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ascmhldirectory xmlns="urn:ASC:MHL:DIRECTORY:v2.0">
+  <hashlist sequencenr="1">
+    <path>0001_samples_2025-05-22_204650Z.mhl</path>
+    <c4>c41hn27Ns92UvAWFt2qrmUhCRxGzXvL91grAptHjE3647yUUVeB9kDf8NZEcEJqfk8cTYyrVQEFtZc8EpXmwo1vPA1</c4>
+  </hashlist>
+  <hashlist sequencenr="2">
+    <path>0002_samples_2025-05-22_204714Z.mhl</path>
+    <c4>c43pDJh3iNDqmTJsR2rewJpdRvzHgcU4ao6Ymz1TfJ6ax89QNAg5kHcktX1uPxuE6qsXakGqPs6KteQcxKhb5McxfK</c4>
+  </hashlist>
+</ascmhldirectory>
