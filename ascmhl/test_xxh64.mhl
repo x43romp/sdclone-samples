@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<hashlist xmlns="urn:ASC:MHL:v2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+    <creatorinfo>
+        <creationdate>2024-11-22T00:18:11Z</creationdate>
+        <hostname>send-clips-here.local</hostname>
+        <tool version="24.4.1671">OffShoot</tool>
+        <author>John Un</author>
+    </creatorinfo>
+    <processinfo>
+        <process>transfer</process>
+        <ignore>
+            <pattern>.DS_Store</pattern>
+            <pattern>.*</pattern>
+            <pattern>ascmhl</pattern>
+            <pattern>ascmhl/</pattern>
+        </ignore>
+    </processinfo>
+    <hashes>
+        <hash>
+            <path size="44432945712" lastmodificationdate="2024-11-21T22:07:55Z">XDROOT/Clip/A023C001_241121XQ.MXF</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:08:36Z">d00b338015f45439</xxh64>
+        </hash>
+        <hash>
+            <path size="3749" lastmodificationdate="2024-11-21T22:07:55Z">XDROOT/Clip/A023C001_241121XQM01.XML</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:08:36Z">ef4e4f38bd3c8de1</xxh64>
+        </hash>
+        <hash>
+            <path size="2674237488" lastmodificationdate="2024-11-21T23:11:24Z">XDROOT/Clip/A023C002_24112137.MXF</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:08:53Z">9bf863eac0c79f83</xxh64>
+        </hash>
+        <hash>
+            <path size="3620" lastmodificationdate="2024-11-21T23:11:25Z">XDROOT/Clip/A023C002_24112137M01.XML</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:08:53Z">34106d1c3398c6ee</xxh64>
+        </hash>
+        <hash>
+            <path size="4728838704" lastmodificationdate="2024-11-21T23:18:09Z">XDROOT/Clip/A023C003_241121Y4.MXF</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:09:22Z">071349b851114fa6</xxh64>
+        </hash>
+        <hash>
+            <path size="4302" lastmodificationdate="2024-11-21T23:18:09Z">XDROOT/Clip/A023C003_241121Y4M01.XML</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:09:22Z">5af199583837bfc6</xxh64>
+        </hash>
+        <hash>
+            <path size="18848964656" lastmodificationdate="2024-11-21T23:34:11Z">XDROOT/Clip/A023C004_24112185.MXF</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:11:17Z">806ed291d5e1d789</xxh64>
+        </hash>
+        <hash>
+            <path size="3765" lastmodificationdate="2024-11-21T23:34:11Z">XDROOT/Clip/A023C004_24112185M01.XML</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:11:17Z">168bd0313b61b070</xxh64>
+        </hash>
+        <hash>
+            <path size="466984496" lastmodificationdate="2024-11-21T23:37:07Z">XDROOT/Clip/A023C005_2411211T.MXF</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:11:20Z">b8f98a8aa873650a</xxh64>
+        </hash>
+        <hash>
+            <path size="3480" lastmodificationdate="2024-11-21T23:37:07Z">XDROOT/Clip/A023C005_2411211TM01.XML</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:11:20Z">1ef6e903bfa2194c</xxh64>
+        </hash>
+        <hash>
+            <path size="23652714544" lastmodificationdate="2024-11-21T23:53:59Z">XDROOT/Clip/A023C006_241121X1.MXF</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:13:46Z">4bca4413f499bea6</xxh64>
+        </hash>
+        <hash>
+            <path size="4303" lastmodificationdate="2024-11-21T23:53:59Z">XDROOT/Clip/A023C006_241121X1M01.XML</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:13:46Z">98998768c865d4f7</xxh64>
+        </hash>
+        <hash>
+            <path size="43585181232" lastmodificationdate="2024-11-22T00:58:21Z">XDROOT/Clip/A023C007_241121R7.MXF</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:18:04Z">172e85f5d107179f</xxh64>
+        </hash>
+        <hash>
+            <path size="3765" lastmodificationdate="2024-11-22T00:58:21Z">XDROOT/Clip/A023C007_241121R7M01.XML</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:18:04Z">ded118da12e359c9</xxh64>
+        </hash>
+        <hash>
+            <path size="301" lastmodificationdate="2024-11-22T01:00:08Z">XDROOT/CUEUP.XML</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:18:04Z">eaa6237df8f19e93</xxh64>
+        </hash>
+        <hash>
+            <path size="286" lastmodificationdate="2024-11-21T21:36:26Z">XDROOT/DISCMETA.XML</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:18:04Z">8e33c5f252bb0a60</xxh64>
+        </hash>
+        <hash>
+            <path size="970360" lastmodificationdate="2024-11-21T22:07:55Z">XDROOT/General/LUT/SL3SG3Ctos709.cube</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:18:04Z">e53aad58859f8c0a</xxh64>
+        </hash>
+        <hash>
+            <path size="3515" lastmodificationdate="2024-11-22T00:58:21Z">XDROOT/MEDIAPRO.XML</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:18:11Z">042b3a235285d9ce</xxh64>
+        </hash>
+        <hash>
+            <path size="33622" lastmodificationdate="2024-11-21T21:43:49Z">XDROOT/Thmbnl/A023C001_241121XQT01.JPG</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:18:11Z">c9efe3c7b4870463</xxh64>
+        </hash>
+        <hash>
+            <path size="28071" lastmodificationdate="2024-11-21T23:09:56Z">XDROOT/Thmbnl/A023C002_24112137T01.JPG</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:18:11Z">b16aa4b781d857c4</xxh64>
+        </hash>
+        <hash>
+            <path size="33255" lastmodificationdate="2024-11-21T23:15:35Z">XDROOT/Thmbnl/A023C003_241121Y4T01.JPG</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:18:11Z">a57de86d129cfbde</xxh64>
+        </hash>
+        <hash>
+            <path size="35415" lastmodificationdate="2024-11-21T23:23:54Z">XDROOT/Thmbnl/A023C004_24112185T01.JPG</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:18:11Z">95a8fa292e3898ca</xxh64>
+        </hash>
+        <hash>
+            <path size="42826" lastmodificationdate="2024-11-21T23:36:51Z">XDROOT/Thmbnl/A023C005_2411211TT01.JPG</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:18:11Z">43979f298ce60cce</xxh64>
+        </hash>
+        <hash>
+            <path size="46933" lastmodificationdate="2024-11-21T23:41:07Z">XDROOT/Thmbnl/A023C006_241121X1T01.JPG</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:18:11Z">b492f13bb8147b4b</xxh64>
+        </hash>
+        <hash>
+            <path size="43728" lastmodificationdate="2024-11-22T00:34:39Z">XDROOT/Thmbnl/A023C007_241121R7T01.JPG</path>
+            <xxh64 action="original" hashdate="2024-11-22T00:18:11Z">81d649e6c9970fdd</xxh64>
+        </hash>
+    </hashes>
+</hashlist>
